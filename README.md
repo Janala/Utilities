@@ -5,3 +5,6 @@ Let's check the commit messsage..
 
 
 Lets update the changes from Dev branch to Master Branch
+
+
+Lets update the changes from Local Dev branch to Dev Branch
